@@ -1,0 +1,98 @@
+[
+    {
+        "user": "Peter",
+        "application": "TCP safebrowsing.googleapis.com:4438",
+        "connector": "Connector: Site-104026",
+        "data": 18
+    },
+    {
+        "user": "Peter",
+        "application": "TCP clientservices.googleapis.com:441",
+        "connector": "Connector: Site-104026",
+        "data": 18
+    },
+    {
+        "user": "Peter",
+        "application": "TCP doh.opendns.com:43",
+        "connector": "Connector: sb-net2-con1",
+        "data": 8
+    },
+    {
+        "user": "Peter",
+        "application": "TCP 2ip.ua:443",
+        "connector": "Connector: sb-net2-con1",
+        "data": 7
+    },
+    {
+        "user": "Peter",
+        "application": "TCP 172.253.63.132:443",
+        "connector": "Connector: sb-net2-con1",
+        "data": 7
+    },
+    {
+        "user": "Peter",
+        "application": "TCP 208.67.220.220:853",
+        "connector": "Connector: Site-104026",
+        "data": 7
+    },
+    {
+        "user": "Peter",
+        "application": "TCP pagead2.googlesyndication.com:443",
+        "connector": "Connector: sb-net2-con1",
+        "data": 6
+    },
+    {
+        "user": "Peter",
+        "application": "TCP 216.239.32.3:443",
+        "connector": "Connector: sb-net2-con1",
+        "data": 6
+    },
+    {
+        "user": "Peter",
+        "application": "TCP account.sap.com:443",
+        "connector": "Connector: sb-net2-con1",
+        "data": 6
+    },
+    {
+        "user": "Peter",
+        "application": "TCP safebrowsing.googleapis.com:443",
+        "connector": "Connector: sb-net2-con1",
+        "data": 5
+    },
+    {
+        "user": "Tanya",
+        "application": "TCP 2ip.ua:443",
+        "connector": "Connector: sb-net2-con1",
+        "data": 5
+    },
+    {
+        "user": "Tanya",
+        "application": "TCP safebrowsing:44",
+        "connector": "Connector: sb-net2-con1",
+        "data": 5
+    },
+    {
+        "user": "Tanya",
+        "application": "TCP clientservices.googleapis.com:441",
+        "connector": "Connector: sb-net2-con1",
+        "data": 6
+    },
+    {
+        "user": "Tanya",
+        "application": "TCP account.sap.com:443",
+        "connector": "Connector: sb-net2-con2",
+        "data": 6
+    },
+    {
+        "user": "Tanya",
+        "application": "TCP safebrowsing.googleapis.com:443",
+        "connector": "Connector: sb-net2-con2",
+        "data": 6
+    },
+    {
+        "user": "Tanya",
+        "application": "TCP 216.239.32.3:443",
+        "connector": "Connector: sb-net2-con3",
+        "data": 8
+    }
+]

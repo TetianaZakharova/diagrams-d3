@@ -1,0 +1,35 @@
+.nav-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    // grid-gap: 16px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+        display: flex;
+        &:hover {
+            background: #dddddd;
+        }
+        &:not(:last-child) a {
+            border-right-width: 0; 
+         }
+        a {
+            text-decoration: none;
+            color: #444;
+            background: #eeeeee;
+            padding: 15px 25px;
+            border: 1px solid #ddd;
+            border-bottom: 0;
+
+            &.active {
+                background: #ffffff;
+            }
+            &:hover {
+                background: #dddddd;
+            }
+       
+        }
+    }
+}

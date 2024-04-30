@@ -1,0 +1,34 @@
+[
+    {
+        "label": "Vizualization",
+        "data": "255000"
+    },   
+    {
+        "label": "GraphML",
+        "data": "1345200"
+    },
+    {
+        "label": "RootScale",
+        "data": "807680"
+    },
+    {
+        "label": "Iteliganti",
+        "data": "760246"
+    },
+    {
+        "label": "Play",
+        "data": "370089"
+    },   
+    {
+        "label": "Google",
+        "data": "2006094"
+    },
+    {
+        "label": "DataUtil",
+        "data": "370000"
+    },
+    {
+        "label": "Sphere",
+        "data": "210900"
+    }      
+]

@@ -1,0 +1,16 @@
+.tab-container {     
+    width: 90%;
+    max-width: 1200px;
+    margin: 24px auto 0;
+
+    .tab-content {
+      // height: 80vh;
+      padding: 20px; 
+      // width: 100%;
+      border: 1px solid #ddd;
+      background: #fff;
+      line-height: 1.5em;
+      letter-spacing: 0.3px;
+      color: #444;
+    }
+  }

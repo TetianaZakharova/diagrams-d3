@@ -1,0 +1,20 @@
+[
+    {
+        "id": "treeDiagram",
+        "title": "Tree Diagram",
+        "order": 1,
+        "path": "tabs/treeChart.js"
+    },
+    {
+        "id": "bubbleChart",
+        "title": "Bubble Chart",
+        "order": 2,
+        "path": "tabs/bubbleDiagram.js"
+    },
+    {
+        "id": "lineChart",
+        "title": "Line Chart",
+        "order": 3,
+        "path": "tabs/lineDiagram.js"
+    }
+]
